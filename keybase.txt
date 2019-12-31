@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/acronym
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://acronym.re
+  * I am acronym (https://keybase.io/acronym) on keybase.
+  * I have a public key ASCGihKl9SkOTPwiqGmA1qyar-RowzIAAhiiuWCoUC89xwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120868a12a5f5290e4cfc22a86980d6ac9aafe468c332000218a2b960a8502f3dc70a",
+      "host": "keybase.io",
+      "kid": "0120868a12a5f5290e4cfc22a86980d6ac9aafe468c332000218a2b960a8502f3dc70a",
+      "uid": "a26c71dae4ef93c4328ec96cc8baab19",
+      "username": "acronym"
+    },
+    "merkle_root": {
+      "ctime": 1576573864,
+      "hash": "87b15c3badc4872253039e0f408520768f61eaffd623f1afc4d7241ce51cc84fff5774c5a2b13af5e34cc7192a8d2879ba0bbce9571e54aedfcb3e6fb69f0bdc",
+      "hash_meta": "16b2301ca1009ce9b7580599f1278dc0d23dcbc939611af1a64e967af2a8daab",
+      "seqno": 13687735
+    },
+    "service": {
+      "entropy": "iMk6ZIFLtLjfpRfIqrhVlTAd",
+      "hostname": "acronym.re",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.0"
+  },
+  "ctime": 1576573870,
+  "expire_in": 504576000,
+  "prev": "0b11ffd3bf027c2cdf09d6e1cbcc2d88845a4e529e36879ed8f5cf96f3021a8b",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghooSpfUpDkz8IqhpgNasmq/kaMMyAAIYorlgqFAvPccKp3BheWxvYWTESpcCDMQgCxH/078CfCzfCdbhy8wtiIRaTlKeNoee2PXPlvMCGovEILp3PO4YC3d+IYi54TRk0mm0fcxNM4BrIuNYWV6jnrA+AgHCo3NpZ8RA8XboffUE2o3af93Y//pi2yZ4t8eeKDoianfLffLzX3XcntklddPpHKedt4TxnNV5djDZOjQSF8dorEbEv27ADKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJITiWExTfeMjPr/wFqFP6+i885ATOW+kFcaxAGEDflAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/acronym
+
+==================================================================
