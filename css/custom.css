@@ -1,0 +1,175 @@
+/********** common setting **********/
+h2 {
+    font-size: 2.8rem !important;
+    font-weight: 700;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+a,
+button {
+    cursor: pointer;
+}
+
+.jumbotron {
+    margin-bottom: 0 !important;
+}
+
+.atlas-cta {
+    border-radius: 22px !important;
+    padding: 12px 30px !important;
+    font-weight: 700;
+    transition: .3s ease-in-out !important;
+}
+
+.atlas-cta:hover {
+    text-decoration: none;
+    transform: translateY(-5px);
+}
+
+.atlas-cta-wide {
+    width: 100%;
+}
+
+.cta-green {
+    background: #ffffff;
+    color: #192440;
+}
+
+.cta-green:hover {
+    color: #000000;
+    background: #ec7272;
+}
+
+.cta-1 {
+    background: #000000;
+    color: #ffffff;
+}
+
+.cta-2 {
+    background: #ffffff;
+    color: #000000;
+}
+
+.cta-blue:hover {
+    color: #ffffff;
+    background: #000000;
+}
+
+.cta-ghost {
+    border: 2px solid #000000 !important;
+    color: #000000;
+}
+
+.cta-ghost:hover {
+    color: #ffffff;
+    background: #000000;
+}
+
+#banner {
+    background-size: cover;
+    background: #000;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 17%, rgba(9,9,121,0) 100%);
+}
+
+/********** banner **********/
+#banner header {
+    overflow: hidden;
+}
+
+#banner header img {
+    max-width: 80px;
+}
+
+/********** feature (skew background) **********/
+.feature img {
+    width: 100%;
+    max-width: 480px;
+}
+
+#feature-first {
+    background: linear-gradient(168deg, #ffffff 55%, #000000 0);
+}
+
+#feature-last {
+    background: #000000;
+    color: #ffffff;
+}
+
+/********** price table **********/
+#price-table {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+}
+
+#price-table__premium {
+    background: #192440;
+    color: #ffffff;
+}
+
+#price-table ul li {
+    padding: 5px 0;
+}
+
+/********** contact **********/
+#contact {
+    background-size: cover;
+    background: #000000;
+}
+
+#contact ul li {
+    padding: 3px 0;
+}
+
+#contact form {
+    color: #ffffff;
+}
+
+#contact form input,
+#contact form textarea {
+    background: transparent;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+#contact img {
+    margin: -20px 0px 0px -180px;
+}
+
+/********** copyright **********/
+#copyright {
+    background: #000000;
+}
+
+#copyright #social-media a {
+    width: 40px;
+    height: 40px;
+    border-radius: 99%;
+    background: #ffffff;
+    transition: .4s ease;
+}
+
+#copyright #social-media a i {
+    color: #192440;
+    font-size: 1.2rem;
+    line-height: 40px;
+}
+
+#copyright #social-media a:hover {
+    background: #000000;
+}
+
+#copyright #social-media a:hover i {
+    color: #ffffff;
+}
+
+/********** RWD **********/
+@media (max-width: 575px) {
+    #banner h1 {
+        font-size: 3.6rem;
+    }
+}
